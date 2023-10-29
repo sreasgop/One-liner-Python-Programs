@@ -8,7 +8,7 @@ This repository is dedicated to exploring the capabilities of the Python program
 
 If you'd like to contribute to this repository, feel free to submit your one-liner Python programs! Follow these guidelines to make the process smooth:
 
-1. Fork this repository.
+1. Star & Fork this repository.
 2. Create a new branch for your contribution.
 3. Add your one-liner program to the relevant category or create a new category if needed.
 4. Ensure that your code is well-documented and readable, despite being a of one logical line (one-liner).
